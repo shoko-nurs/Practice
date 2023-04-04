@@ -16,6 +16,5 @@ func Add(x, y int) (result int) {
 }
 
 func AddFromFix1() {
-	fmt.Println("From fix1 first commit")
-	// for commit 2 fix1
+	// Removed prvious results and added these new
 }
