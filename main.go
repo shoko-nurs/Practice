@@ -14,3 +14,7 @@ func Add(x, y int) (result int) {
 	result = x + y
 	return
 }
+
+func AddFromFix1() {
+	fmt.Println("From fix1 first commit")
+}
