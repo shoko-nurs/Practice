@@ -33,3 +33,7 @@ func AddFromFix1() {
 func new1() {
 	fmt.Println(123)
 }
+
+func new2() {
+	fmt.Println("Hi")
+}
