@@ -7,7 +7,9 @@ func main() {
 	a := Add(10, 20)
 
 	fmt.Println(a)
-	// This is from main line
+
+	// This is for fix1
+
 }
 
 func Add(x, y int) (result int) {
