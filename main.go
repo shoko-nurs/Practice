@@ -27,3 +27,7 @@ func Add(x, y int) (result int) {
 func AddFromFix1() {
 	// Removed prvious results and added these new
 }
+
+func new1() {
+	fmt.Println(123)
+}
