@@ -10,8 +10,12 @@ func main() {
 
 	// This is for fix1
 
-	b := 20000
-	fmt.Println(b)
+	///awdaw
+	///awdaw
+	//wadawdaw
+	//wdawdawdaw
+	// awdwadawdwa
+
 }
 
 func Add(x, y int) (result int) {
