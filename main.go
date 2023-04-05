@@ -15,6 +15,8 @@ func main() {
 	// awdwadawdwa
 	// wadawdwad
 	//wadwd wawda
+	// awdawdawd
+	// awdwdw
 }
 
 func Add(x, y int) (result int) {
