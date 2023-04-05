@@ -8,6 +8,21 @@ func main() {
 
 	fmt.Println(a)
 
+<<<<<<< HEAD
+=======
+	// This is for fix1
+
+	///awdaw
+	///awdaw
+	//wadawdaw
+	//wdawdawdaw
+	// awdwadawdwa
+	// wadawdwad
+	//wadwd wawda
+	// awdawdawd
+	// awdwdw
+
+>>>>>>> 472a42c (wadw)
 }
 
 func Add(x, y int) (result int) {
