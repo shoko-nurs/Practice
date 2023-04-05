@@ -8,18 +8,6 @@ func main() {
 
 	fmt.Println(a)
 
-	// This is for fix1
-
-	///awdaw
-	///awdaw
-	//wadawdaw
-	//wdawdawdaw
-	// awdwadawdwa
-	// wadawdwad
-	//wadwd wawda
-	// awdawdawd
-	// awdwdw
-
 }
 
 func Add(x, y int) (result int) {
